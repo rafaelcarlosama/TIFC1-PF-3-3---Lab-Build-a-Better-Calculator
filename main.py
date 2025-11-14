@@ -1,4 +1,5 @@
 #Laboratorio python 14/nov_2025
+#reviison cambio 2 prueba/4:31
 
 def addmultiplenumbers(numbers):
     return sum(numbers)
